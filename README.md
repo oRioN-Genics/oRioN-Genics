@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently studiying Computer Engineering 
+Hey 👋 I am Sathsara Anuradha
+currently studying Computer Engineering @ University of Ruhuna, Sri Lanka
 
 
 ## 🌐 Socials:
