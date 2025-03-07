@@ -7,8 +7,11 @@ Hi there! 👋 I'm **Sathsara Anuradha**, a **Computer Engineering undergraduate
 
 ---  
 
-### 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/sathsara-anuradha](https://www.linkedin.com/in/sathsara-anuradha-275a05278/))  
+<p align="left">
+  <a href="https://www.linkedin.com/in/sathsara-anuradha-275a05278/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+</p>
 
 ---
 
