@@ -5,8 +5,9 @@ Hi there! 👋 I'm **Sathsara Anuradha**, a **Computer Engineering undergraduate
 - 🤖 **Artificial Intelligence & Machine Learning** (Neural Networks, Computer Vision, Deep Learning)  
 - 🎮 **Game Development** (Exploring 2D/3D game engines & mechanics)  
 
----  
+---
 
+## 🌍 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/sathsara-anuradha-275a05278/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
