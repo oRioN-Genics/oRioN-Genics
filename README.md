@@ -47,6 +47,7 @@ Hi there! 👋 I'm **Sathsara Anuradha**, a **Computer Engineering undergraduate
 ### 🎮 Game Development  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="30" style="vertical-align:middle; object-fit:contain;" alt="Godot Engine"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/bevyengine/bevy-website/main/static/assets/icon.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="Bevy Engine"/> &nbsp;
 </p>
 
 ### 🔧 Tools & Platforms  
