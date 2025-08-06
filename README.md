@@ -79,26 +79,6 @@ I am passionate about **Artificial Intelligence, Game Development, and Web Techn
 
 ---
 
-## 🏆 GitHub Achievements 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oRioN-Genics&theme=algolia&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
-  <br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=oRioN-Genics&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="GitHub Contributions"/>
-</div>
-
----
-
-## ✍️ Developer Wisdom  
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia" alt="Dev Quote"/>
-</div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="300" alt="Floating Astronaut GIF">
-</p>
-
----
-
 ## 🌍 Visitor Count  
 <div align="center">
   <br><img src="https://komarev.com/ghpvc/?username=oRioN-Genics&label=🌌+Visitors++&color=blueviolet&style=flat-square" alt="Visitor Count"/>
