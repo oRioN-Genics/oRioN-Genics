@@ -1,18 +1,26 @@
-name: Generate Pac-Man
+name: Pac-Man Contributions
+
 on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
-  push: {branches: [main]}
+  schedule:
+    - cron: "0 18 * * *"   # runs 18:00 UTC ≈ 11:30 PM Sri Lanka (UTC+5:30)
+  workflow_dispatch:        # allow manual runs
+
+permissions:
+  contents: write           # needed to push the generated SVG
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions: {contents: write}
     steps:
-      - name: generate pacman svg
+      - name: Generate Pac-Man SVG(s)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-      - name: publish to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with: {target_branch: output, build_dir: dist}
-        env: {GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}}
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
