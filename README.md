@@ -71,7 +71,10 @@ I am passionate about **Artificial Intelligence, Game Development, and Web Techn
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oRioN-Genics/oRioN-Genics/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oRioN-Genics/oRioN-Genics/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/oRioN-Genics/oRioN-Genics/output/pacman-contribution-graph-dark.svg?cache=1">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/oRioN-Genics/oRioN-Genics/output/pacman-contribution-graph.svg?cache=1">
 </picture>
+
 
