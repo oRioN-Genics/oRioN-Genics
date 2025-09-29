@@ -70,23 +70,6 @@ I am passionate about **Artificial Intelligence, Game Development, and Web Techn
 
 ---
 
-## 🚀🌌 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oRioN-Genics&show_icons=true&theme=merko&hide_border=true&icon_color=blueviolet&title_color=deepskyblue&text_color=white" width="48%" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oRioN-Genics&layout=compact&theme=merko&hide_border=true&icon_color=blueviolet&title_color=deepskyblue&text_color=white" width="60%" alt="Most Used Languages"/>
-</div>
-
----
-
-## 🌍 Visitor Count  
-<div align="center">
-  <br><img src="https://komarev.com/ghpvc/?username=oRioN-Genics&label=🌌+Visitors++&color=blueviolet&style=flat-square" alt="Visitor Count"/>
-</div>
-
----
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oRioN-Genics/oRioN-Genics/output/pacman-contribution-graph-dark.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oRioN-Genics/oRioN-Genics/output/pacman-contribution-graph.svg">
