@@ -2,25 +2,41 @@ name: Pac-Man Contributions
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # runs 18:00 UTC ≈ 11:30 PM Sri Lanka (UTC+5:30)
-  workflow_dispatch:        # allow manual runs
+    - cron: "0 18 * * *"   # 18:00 UTC ≈ 23:30 SLT
+  workflow_dispatch:
 
+# GITHUB_TOKEN is read-only by default on some repos — explicitly grant write
 permissions:
-  contents: write           # needed to push the generated SVG
+  contents: write
+
+concurrency:
+  group: pacman-graph
+  cancel-in-progress: false    # avoids overlapping pushes to `output`
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout (shallow)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
       - name: Generate Pac-Man SVG(s)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          # optional knobs you can add if you want:
+          # theme: dark
+          # color: "#36BCF7"
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true         # prevent force-overwriting branch history
+          allow_empty_commit: true   # ensure branch still updates even if same files
+          commit_message: "chore(pacman): update contribution graph [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
