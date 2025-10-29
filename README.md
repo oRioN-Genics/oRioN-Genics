@@ -28,29 +28,30 @@ I am passionate about **Artificial Intelligence, Game Development, and Web Techn
 
 ---
 
-### 💻 Programming Languages 
+### • Programming Languages
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/> &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=t7vIvDXazOGO&format=png&color=000000" width="30" alt="Rust"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/> &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=t7vIvDXazOGO&format=png&color=000000" width="40" alt="Rust"/> &nbsp;
 </p>
 
-### 🧠 AI & Machine Learning  
+### • AI & Machine Learning  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" alt="TensorFlow"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30" alt="OpenCV"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" alt="OpenCV"/> &nbsp;
 </p>
 
-### 🎮 Game Development  
+### • Game Development  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="30" alt="Godot Engine"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/bevyengine/bevy-website/main/static/assets/icon.png" width="30" alt="Bevy Engine"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" alt="Godot Engine"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/bevyengine/bevy-website/main/static/assets/icon.png" width="40" alt="Bevy Engine"/> &nbsp;
 </p>
 
-### 🔧 Tools & Platforms  
+### • Tools & Platforms  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30" alt="Arduino"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gazebo/gazebo-original.svg" width="40" alt="Gazebo Simulator"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino"/> &nbsp;
 </p>
-
+          
 ---
 
 <picture>
