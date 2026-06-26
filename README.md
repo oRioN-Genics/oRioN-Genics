@@ -29,9 +29,10 @@ I am passionate about **Artificial Intelligence, Game Development, and Web Techn
 ---
 
 ### • Programming Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/> &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=t7vIvDXazOGO&format=png&color=000000" width="40" alt="Rust"/> &nbsp;
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/> &nbsp; 
+  <img src="https://img.icons8.com/color/96/c-programming.png" width="40" alt="C"/> &nbsp; 
+  <img src="https://img.icons8.com/?size=100&id=t7vIvDXazOGO&format=png&color=000000" width="40" alt="Rust"/> &nbsp; 
 </p>
 
 ### • AI & Machine Learning  
